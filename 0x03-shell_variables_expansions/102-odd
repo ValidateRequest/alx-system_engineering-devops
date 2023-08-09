@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -u, - - | cut -d, -fl
+paste -d, - - | cut -d, -fl
